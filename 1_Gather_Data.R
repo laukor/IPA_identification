@@ -1,4 +1,4 @@
-## Criterion A. Gather data ##
+## Download and collate occurence record data ##
 # 1. Load libraries and species list
 # 2. Get GBIF data
 # 3. Get BIEN data
