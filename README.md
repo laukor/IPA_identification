@@ -11,4 +11,4 @@ The code has been somewhat simplified to summarise the steps taken and functions
 
 **Context**
 
-The IPA programme was established in 2002 to identify and protect a network of best sites for plant conservation in the world. These are identified according to [globally consistent criteria](https://link.springer.com/article/10.1007/s10531-017-1336-6) based on the presence of A. threatened species, B. botanical richness and C. threatened habitats, usually identified at the national level.
+The IPA programme was established in 2002 to identify and protect a network of best sites for plant conservation in the world. These are identified according to [globally consistent criteria](https://link.springer.com/article/10.1007/s10531-017-1336-6) based on the presence of A. threatened species, B. botanical richness and C. threatened habitats, usually identified at the national level. In this study, the criteria and thresholds applied were primarily based on the Colombian methodology for IPA identification.
