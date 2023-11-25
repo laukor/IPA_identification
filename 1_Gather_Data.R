@@ -3,7 +3,7 @@
 # 2. Get GBIF data
 # 3. Get BIEN data
 # 4. Merge and clean datasets
-# 5. Identify potential HRE / RRE species
+# 5. Identify potential HRE / RRE species (for Crit A)
 # 6. Export records
 
 # 1. Load libraries and data --------------------------------------------------
