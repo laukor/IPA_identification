@@ -1,4 +1,4 @@
-## Download and collate occurence record data ##
+## Download and collate occurrence record data ##
 # 1. Load libraries and species list
 # 2. Get GBIF data
 # 3. Get BIEN data
